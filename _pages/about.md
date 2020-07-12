@@ -5,7 +5,7 @@ permalink: /about/
 image: '/images/taxi.jpg'
 ---
 
-Hey. My name is Marko. This is a blog that I've decided to create to express my life and opinions. From April 2019 - May 2020, I went to Japan on a Working Holiday Visa. While there I experienced so many different things. I went to a place called Nara to visit deer really up close! It was magical. I felt like a disney princess. The main purpose of this blog is to spread awareness of the problem that is littering. In Japan, there are many individuals (which are not employed by their city) picking up garbage around their communities. I'd love to bring this culture to Canada. 
+Hey. My name is Marko. This is a blog that I've decided to create to express my life and opinions. From April 2019 - May 2020, I went to Japan on a Working Holiday Visa. While there. I experienced so many different things. I went to a place called Nara to visit deer really up close! It was magical. I felt like a disney princess. The main purpose of this blog is to spread awareness of the problem that is littering. In Japan, there are many individuals (which are not employed by their city) picking up garbage around their communities. I'd love to bring this culture to Canada. 
 
 ![My best moments]({{site.baseurl}}/images/deer.jpg)
 
