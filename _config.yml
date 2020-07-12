@@ -33,8 +33,8 @@ slider: true # NOTE - By default, the slider is set to display featured posts. T
 #-------------------------------
 # Contact Settings
 contact:
-  email: marko@kitosoji.com # Add your email for contant form
-  description: Bonso comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+  email: kito.soji@gmail.com # Add your email for contant form
+  description: If you have any questions or concerns, please don't hesitate to contact me. # Add a description of your form
 
 # NOTE
 # Bonso comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
