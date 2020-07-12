@@ -2,7 +2,7 @@
 # General Site Settings
 title: Kito Soji
 logo: # You can add own logo. For example '/images/logo.png'.
-description: 企図掃除 - "Plan Clean" in Japanese. I'd like to tidy up garbage around our communities! 
+description: roughly means "Plan Clean" in Japanese. I'd like to tidy up garbage around our communities! 
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com
 
