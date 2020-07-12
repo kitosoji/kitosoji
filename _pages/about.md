@@ -20,7 +20,7 @@ The reason that I even ended up in Japan is due to this lovely lady here. She vi
   <em>My love..</em>
 </div>
 
-The critera for this website is really straight forward. I'm going to be going around the communities of Ontario and picking up garbage, while spreading the name Kito Soji. I'd like to change the publics perception on litter while doing so. 
+The critera for this website is really straight forward. I'll be going around the communities of Ontario and picking up garbage, while spreading the name Kito Soji. I'd like to change the publics perception on litter while doing so. 
 
 1. Post content influencing people to mold their bad habits into good ones. 
 2. Spread positivity through forward thinking and love. 
