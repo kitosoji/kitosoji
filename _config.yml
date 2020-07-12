@@ -12,7 +12,6 @@ url: "" # The base hostname & protocol for your site, e.g. http://example.com
 author:
   avatar: '/images/01.jpg'
   name: Marko
-  job: Building Sciences
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com"}
