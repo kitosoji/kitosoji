@@ -17,7 +17,7 @@ The reason that I ended up in Japan is due to this lovely lady here. She visited
     <img src="/images/mayuko3.gif">
     <img src="/images/mayuko2.jpg">
   </div>
-  <em>My love..</em>
+  <em>♥</em>
 </div>
 
 The critera for this website is really straight forward. I'll be going around the communities of Ontario and picking up litter, while spreading the name Kito Soji. I'd like to change the idea of littering while doing so. 
