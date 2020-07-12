@@ -12,7 +12,7 @@ url: "" # The base hostname & protocol for your site, e.g. http://example.com
 author:
   avatar: '/images/profile.jpg'
   name: Marko 
-  job: 日本語を勉強しています！
+  job: 日本はかっこいい！
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com"}
