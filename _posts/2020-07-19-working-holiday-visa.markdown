@@ -10,7 +10,7 @@ featured:
 
 <p>You can go on a Working Holiday, which gives you a very special open working permit to travel and explore one of a select few countries.&nbsp;</p>
 
-<p>If you are a Canadian citizen the countries are as followed:</p>
+<p>Here are a list of the countries:</p>
 
 <ul style="list-style-type: square;">
 <li><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/canadians/international-experience-canada/work-travel-australia.html">Australia</a></li>
