@@ -54,4 +54,5 @@ If you're interested in travelling the world and have a small amount of savings,
 Totally worth it! I went to Japan from 2019 - 2020 and have plans on heading over to Korea!
 
 Spread love and keep smiling.
+
 まこ
