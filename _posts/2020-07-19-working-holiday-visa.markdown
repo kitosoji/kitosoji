@@ -12,7 +12,7 @@ You can go on a Working Holiday, which gives you a very special open working per
 
 Here are a list of the countries:
 
-<ul style="list-style-type: square;">
+<ul style="list-style-type: circle;">
 <li><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/canadians/international-experience-canada/work-travel-australia.html">Australia</a></li>
 <li><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/canadians/international-experience-canada/work-travel-austria.html">Austria</a></li>
 <li><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/canadians/international-experience-canada/work-travel-belgium.html">Belgium</a></li>
