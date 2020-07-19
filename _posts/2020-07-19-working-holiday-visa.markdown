@@ -6,11 +6,11 @@ image:  '/images/w1.jpg'
 tags:   [Travel, World]
 featured: true
 ---
-<p>If you're a Canadian citizen and you are interested in travelling the world, Canada offers a wonderful program that is unfortunatly, not as known as it should be!</p>
+If you're a Canadian citizen and you are interested in travelling the world, Canada offers a wonderful program that is unfortunatly, not as known as it should be!
 
-<p>You can go on a Working Holiday, which gives you a very special open working permit to travel and explore one of a select few countries.&nbsp;</p>
+You can go on a Working Holiday, which gives you a very special open working permit to travel and explore one of a select few countries.&nbsp;
 
-<p>Here are a list of the countries:</p>
+Here are a list of the countries:
 
 <ul style="list-style-type: square;">
 <li><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/canadians/international-experience-canada/work-travel-australia.html">Australia</a></li>
@@ -47,11 +47,11 @@ featured: true
 <li><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/canadians/international-experience-canada/work-travel-united-kingdom.html">United Kingdom</a></li>
 </ul>
 
-<p>I've gone ahead and linked the site-specific information for you to take a look at the requirements for each of the countries, as they differ depending on where you want to go!</p>
+I've gone ahead and linked the site-specific information for you to take a look at the requirements for each of the countries, as they differ depending on where you want to go!
 
-<p>If you're interested in travelling the world and have a small amount of savings, explore the Working Holiday Visa!</p>
+If you're interested in travelling the world and have a small amount of savings, explore the Working Holiday Visa!
 
-<p>Totally worth it! I went to Japan from 2019 - 2020 and have plans on heading over to Korea!</p>
+Totally worth it! I went to Japan from 2019 - 2020 and have plans on heading over to Korea!
 
-<p>Spread love and keep smiling.</p>
-<p>まこ</p>
+Spread love and keep smiling.
+まこ
