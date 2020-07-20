@@ -4,7 +4,7 @@ title:  Working Holiday Visa!
 date:   2020-07-19 16:01:35 +0500
 image:  '/images/w1.jpg'
 tags:   [Travel, World]
-featured: true
+featured:
 ---
 If you're a Canadian citizen and you are interested in travelling the world, Canada offers a wonderful program that is unfortunatly, not as known as it should be!
 
