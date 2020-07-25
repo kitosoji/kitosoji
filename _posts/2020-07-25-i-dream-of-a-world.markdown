@@ -6,9 +6,8 @@ image:  '/images/d4.jpg'
 tags:   [World, Dream]
 featured: 
 ---
-> Where one can live, one can also simply exist.
+> Where one thrives, another wishes to live.
 >
-> <cite>まこ</c>
 
 I wonder of the distinct difference between a society that has been nurtured from a place of love, instead of a place of greed and fear. 
 
@@ -20,9 +19,9 @@ But as I grow older, it’s dawned on me that these things shouldn’t be our go
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/d1.jpg">
-    <img src="/d2.jpg">
-    <img src="/d3.jpg">
+    <img src="/images/d1.jpg">
+    <img src="/images/d2.jpg">
+    <img src="/images/d3.jpg">
   </div>
   <em>Japan</em>
 </div>
