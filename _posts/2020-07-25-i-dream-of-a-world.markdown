@@ -19,7 +19,7 @@ But as I grow older, it’s dawned on me that these things shouldn’t be our go
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/d1.jpg">
+    <img src="/images/d5.jpg">
     <img src="/images/d2.jpg">
     <img src="/images/d3.jpg">
   </div>
