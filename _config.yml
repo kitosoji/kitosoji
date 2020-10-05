@@ -11,8 +11,8 @@ url: "" # The base hostname & protocol for your site, e.g. http://example.com
 # Author Settings
 author:
   avatar: '/images/profile.jpg'
-  name: Marko Pavlovic
-  job: Building Science Major
+  name: Marko 
+  job: Curious Raccoon
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com"}
