@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Should I invest in today?
+title:  Should I invest today?
 date:   2020-10-06 10:01:35 +0500
 image:  '/images/meow.jpg'
 tags:   [Work, Life]
