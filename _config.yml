@@ -2,7 +2,7 @@
 # General Site Settings
 title: Kito Soji
 logo: # You can add own logo. For example '/images/logo.png'.
-description: roughly means "Plan Clean" in Japanese. I'd like to tidy up garbage around our communities! 
+description: roughly means "Plan Clean" in Japanese.
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com
 
@@ -12,7 +12,7 @@ url: "" # The base hostname & protocol for your site, e.g. http://example.com
 author:
   avatar: '/images/profile.jpg'
   name: Marko Pavlovic
-  job: 日本はかっこいい！
+  job: Building Science Major
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com"}
